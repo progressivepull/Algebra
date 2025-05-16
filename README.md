@@ -35,7 +35,7 @@ Understanding the rules and applications of:
 Handling fractions involving polynomials:
 - Simplification, addition, subtraction, multiplication, and division
 
-### Quadratic Equations
+### [Quadratic Equations](./Quadratic_Equations.ipynb)
 Solving equations where the variable is raised to the second power:
 - Techniques include factoring, completing the square, and the quadratic formula
 
