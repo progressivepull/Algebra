@@ -7,7 +7,7 @@ Algebra encompasses a broad range of topics, but some fundamental areas include 
 Understanding different types of numbers, their properties, and performing basic arithmetic operations:
 - Addition, subtraction, multiplication, and division
 
-### Linear Equations and Inequalities
+### [Linear Equations and Inequalities](./Linear_Equations_and_Inequalities.ipynb)
 Solving equations where variables are raised to the first power and exploring inequalities using symbols:
 - `<`, `>`, `≤`, `≥`
 
