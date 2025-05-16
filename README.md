@@ -19,7 +19,7 @@ Understanding the concept of a function, its notation, and various types:
 Visualizing equations and inequalities on a coordinate plane:
 - Graphs of linear equations, quadratic functions, and other functions
 
-### Polynomials
+### [Polynomials](./Polynomials.ipynb)
 Working with polynomial expressions, including:
 - Addition, subtraction, multiplication, and factoring
 
