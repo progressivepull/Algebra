@@ -49,7 +49,7 @@ Solving multiple equations simultaneously:
 Explores algebraic structures such as:
 - Groups, rings, and fields
 
-### Matrices
+### [Matrices](./Matrices.ipynb)
 Understanding and manipulating matrices:
 - Applications in linear transformations and solving systems of equations
 
