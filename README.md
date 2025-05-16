@@ -15,7 +15,7 @@ Solving equations where variables are raised to the first power and exploring in
 Understanding the concept of a function, its notation, and various types:
 - Linear, quadratic, exponential, and more
 
-### Graphing
+### [Graphing](./Graphing.ipynb)
 Visualizing equations and inequalities on a coordinate plane:
 - Graphs of linear equations, quadratic functions, and other functions
 
