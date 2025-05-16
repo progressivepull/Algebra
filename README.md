@@ -3,7 +3,7 @@ Algebra encompasses a broad range of topics, but some fundamental areas include 
 
 ## Common Algebra Topics
 
-### Real Numbers and Their Operations
+### [Real Numbers and Their Operations](./Real_Numbers_and_Their_Operations.ipynb)
 Understanding different types of numbers, their properties, and performing basic arithmetic operations:
 - Addition, subtraction, multiplication, and division
 
