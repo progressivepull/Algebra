@@ -31,7 +31,7 @@ Decomposing polynomials into simpler expressions:
 Understanding the rules and applications of:
 - Exponents and radical expressions
 
-### Rational Expressions
+### [Rational Expressions](./Rational_Expressions.ipynb)
 Handling fractions involving polynomials:
 - Simplification, addition, subtraction, multiplication, and division
 
