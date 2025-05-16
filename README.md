@@ -27,7 +27,7 @@ Working with polynomial expressions, including:
 Decomposing polynomials into simpler expressions:
 - Used for solving equations and simplifying expressions
 
-### Exponents and Radicals
+### [Exponents and Radicals](./Exponents_and_Radicals.ipynb)
 Understanding the rules and applications of:
 - Exponents and radical expressions
 
