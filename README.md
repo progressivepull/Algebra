@@ -57,7 +57,7 @@ Understanding and manipulating matrices:
 Analyzing numerical patterns in sequences and exploring summations:
 - Arithmetic and geometric sequences
 
-### Exponential Functions
+### [Exponential Functions](./Exponential_Functions.ipynb)
 Studying functions where the variable appears in the exponent:
 - Used to model growth and decay phenomena
 
