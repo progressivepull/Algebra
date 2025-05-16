@@ -23,7 +23,7 @@ Visualizing equations and inequalities on a coordinate plane:
 Working with polynomial expressions, including:
 - Addition, subtraction, multiplication, and factoring
 
-### Factoring
+### [Factoring](./Factoring.ipynb)
 Decomposing polynomials into simpler expressions:
 - Used for solving equations and simplifying expressions
 
