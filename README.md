@@ -61,7 +61,7 @@ Analyzing numerical patterns in sequences and exploring summations:
 Studying functions where the variable appears in the exponent:
 - Used to model growth and decay phenomena
 
-### Group Theory
+### [Group Theory](./Group_Theory.ipynb)
 A branch of abstract algebra that studies:
 - Groups with specific algebraic properties
 
