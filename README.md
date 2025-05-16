@@ -11,7 +11,7 @@ Understanding different types of numbers, their properties, and performing basic
 Solving equations where variables are raised to the first power and exploring inequalities using symbols:
 - `<`, `>`, `≤`, `≥`
 
-### Functions
+### [Functions](./Functions.ipynb)
 Understanding the concept of a function, its notation, and various types:
 - Linear, quadratic, exponential, and more
 
