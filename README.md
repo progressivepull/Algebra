@@ -39,7 +39,7 @@ Handling fractions involving polynomials:
 Solving equations where the variable is raised to the second power:
 - Techniques include factoring, completing the square, and the quadratic formula
 
-### Systems of Equations
+### [Systems of Equations](./Systems_of_Equations.ipynb)
 Solving multiple equations simultaneously:
 - Using substitution or elimination methods
 
