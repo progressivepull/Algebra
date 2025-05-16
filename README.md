@@ -53,7 +53,7 @@ Explores algebraic structures such as:
 Understanding and manipulating matrices:
 - Applications in linear transformations and solving systems of equations
 
-### Sequences and Series
+### [Sequences and Series](./Sequences_and_Series.ipynb)
 Analyzing numerical patterns in sequences and exploring summations:
 - Arithmetic and geometric sequences
 
