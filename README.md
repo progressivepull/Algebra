@@ -45,7 +45,7 @@ Solving multiple equations simultaneously:
 
 ## Advanced Algebra Topics
 
-### Abstract Algebra
+### [Abstract Algebra](./Abstract_Algebra.ipynb)
 Explores algebraic structures such as:
 - Groups, rings, and fields
 
