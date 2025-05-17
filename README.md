@@ -43,6 +43,10 @@ Solving equations where the variable is raised to the second power:
 Solving multiple equations simultaneously:
 - Using substitution or elimination methods
 
+### Even and Odd Functions 
+Detemine of even and odd functions
+- Properties of even and odd functions
+
 ## Advanced Algebra Topics
 
 ### [Abstract Algebra](./Abstract_Algebra.ipynb)
