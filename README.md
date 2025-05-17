@@ -81,7 +81,7 @@ Solving and graphing linear equations and inequalities, including systems of equ
 Introduction to functions, including:
 - Notation, domain, range, and different types
 
-### Polynomials Concepts
+### [Polynomials Concepts](./Polynomials_Concepts.ipynb)
 Working with polynomials:
 - Factoring, division, and solving polynomial equations
 
