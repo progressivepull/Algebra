@@ -65,7 +65,7 @@ Studying functions where the variable appears in the exponent:
 A branch of abstract algebra that studies:
 - Groups with specific algebraic properties
 
-### Ring Theory
+### [Ring Theory](./Ring_Theory.ipynb)
 Another branch of abstract algebra focused on:
 - Rings with binary operations
 
