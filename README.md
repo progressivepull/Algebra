@@ -71,50 +71,50 @@ Another branch of abstract algebra focused on:
 
 ## Foundational Concepts
 
-### [Real Numbers and Operations](./Real_Numbers_and_Operations.ipynb)
+### [Real Numbers and Operations Concepts](./Real_Numbers_and_Operations.ipynb)
 Understanding the properties of real numbers and performing basic operations.
 
-### [Linear Equations and Inequalities](./Linear_Equations_and_Inequalities.ipynb)
+### [Linear Equations and Inequalities Concepts](./Linear_Equations_and_Inequalities.ipynb)
 Solving and graphing linear equations and inequalities, including systems of equations.
 
-### Functions
+### Functions Concepts
 Introduction to functions, including:
 - Notation, domain, range, and different types
 
-### Polynomials
+### Polynomials Concepts
 Working with polynomials:
 - Factoring, division, and solving polynomial equations
 
 ## Advanced Topics
 
-### Quadratic Equations and Functions
+### Quadratic Equations and Functions Advanced
 Solving quadratic equations and understanding:
 - The quadratic formula and graphing parabolas
 
-### Exponents and Radicals
+### Exponents and Radicals Advanced
 Working with exponents, radicals, and rational exponents:
 - Simplifying expressions and solving equations
 
-### Rational Expressions and Equations
+### Rational Expressions and Equations Advanced
 Understanding and manipulating rational expressions:
 - Solving rational equations and applications
 
-### Complex Numbers
+### Complex Numbers Advanced
 Working with complex numbers:
 - Basic operations and solutions involving complex roots
 
-### Logarithms
+### Logarithms Advanced
 Understanding logarithms and their properties:
 - Solving logarithmic equations
 
-### Exponential Functions
+### Exponential Functions Advanced
 Understanding exponential functions and their applications:
 - Graphing and modeling growth/decay
 
-### Systems of Equations and Inequalities
+### Systems of Equations and Inequalities Advanced
 Solving systems of linear and non-linear equations and inequalities.
 
-### Graphing Equations and Functions
+### Graphing Equations and Functions Advanced
 Understanding how to graph various types of equations and functions.
 
 ## Applications and Modeling
