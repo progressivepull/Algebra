@@ -77,7 +77,7 @@ Understanding the properties of real numbers and performing basic operations.
 ### [Linear Equations and Inequalities Concepts](./Linear_Equations_and_Inequalities_Concepts.ipynb)
 Solving and graphing linear equations and inequalities, including systems of equations.
 
-### Functions Concepts
+### [Functions Concepts](./Functions_Concepts.ipynb)
 Introduction to functions, including:
 - Notation, domain, range, and different types
 
