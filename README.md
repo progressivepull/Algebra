@@ -71,10 +71,10 @@ Another branch of abstract algebra focused on:
 
 ## Foundational Concepts
 
-### [Real Numbers and Operations Concepts](./Real_Numbers_and_Operations.ipynb)
+### [Real Numbers and Operations Concepts](./Real_Numbers_and_Operations_Concepts.ipynb)
 Understanding the properties of real numbers and performing basic operations.
 
-### [Linear Equations and Inequalities Concepts](./Linear_Equations_and_Inequalities.ipynb)
+### [Linear Equations and Inequalities Concepts](./Linear_Equations_and_Inequalities_Concepts.ipynb)
 Solving and graphing linear equations and inequalities, including systems of equations.
 
 ### Functions Concepts
