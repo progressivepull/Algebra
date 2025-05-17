@@ -91,7 +91,7 @@ Working with polynomials:
 
 ## Advanced Topics
 
-### Quadratic Equations and Functions Advanced
+### [Quadratic Equations and Functions Advanced](./Quadratic_Equations_and_Functions_Advanced.ipynb)
 Solving quadratic equations and understanding:
 - The quadratic formula and graphing parabolas
 
