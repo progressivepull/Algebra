@@ -71,7 +71,7 @@ Another branch of abstract algebra focused on:
 
 ## Foundational Concepts
 
-### Real Numbers and Operations
+### [Real Numbers and Operations](./Real_Numbers_and_Operations.ipynb)
 Understanding the properties of real numbers and performing basic operations.
 
 ### Linear Equations and Inequalities
