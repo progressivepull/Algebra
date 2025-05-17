@@ -74,7 +74,7 @@ Another branch of abstract algebra focused on:
 ### [Real Numbers and Operations](./Real_Numbers_and_Operations.ipynb)
 Understanding the properties of real numbers and performing basic operations.
 
-### Linear Equations and Inequalities
+### [Linear Equations and Inequalities](./Linear_Equations_and_Inequalities.ipynb)
 Solving and graphing linear equations and inequalities, including systems of equations.
 
 ### Functions
