@@ -95,7 +95,7 @@ Working with polynomials:
 Solving quadratic equations and understanding:
 - The quadratic formula and graphing parabolas
 
-### Exponents and Radicals Advanced
+### [Exponents and Radicals Advanced](./Exponents_and_Radicals_Advanced.ipynb)
 Working with exponents, radicals, and rational exponents:
 - Simplifying expressions and solving equations
 
