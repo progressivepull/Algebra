@@ -126,7 +126,7 @@ Understanding how to graph various types of equations and functions.
 ### [Word Problems](./Word_Problems.ipynb)
 Solving real-world problems using algebraic concepts.
 
-### Mathematical Modeling
+### [Mathematical Modeling](./Mathematical_Modeling.ipynb)
 Using functions and equations to model real-world situations.
 
 ### Geometric Applications
