@@ -123,7 +123,7 @@ Understanding how to graph various types of equations and functions.
 
 ## Applications and Modeling
 
-### Word Problems
+### [Word Problems](./Word_Problems.ipynb)
 Solving real-world problems using algebraic concepts.
 
 ### Mathematical Modeling
