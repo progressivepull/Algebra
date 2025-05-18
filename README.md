@@ -115,7 +115,7 @@ Understanding logarithms and their properties:
 Understanding exponential functions and their applications:
 - Graphing and modeling growth/decay
 
-### Systems of Equations and Inequalities Advanced
+### [Systems of Equations and Inequalities Advanced](./Systems_of_Equations_and_Inequalities_Advanced.ipynb)
 Solving systems of linear and non-linear equations and inequalities.
 
 ### Graphing Equations and Functions Advanced
