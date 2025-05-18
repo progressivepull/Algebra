@@ -103,7 +103,7 @@ Working with exponents, radicals, and rational exponents:
 Understanding and manipulating rational expressions:
 - Solving rational equations and applications
 
-### Complex Numbers Advanced
+### [Complex Numbers Advanced](./Complex_Numbers_Advanced.ipynb)
 Working with complex numbers:
 - Basic operations and solutions involving complex roots
 
