@@ -129,5 +129,5 @@ Solving real-world problems using algebraic concepts.
 ### [Mathematical Modeling](./Mathematical_Modeling.ipynb)
 Using functions and equations to model real-world situations.
 
-### Geometric Applications
+### [Geometric Applications](./Geometric_Applications.ipynb)
 Relating algebraic concepts to geometric figures and properties.
