@@ -111,7 +111,7 @@ Working with complex numbers:
 Understanding logarithms and their properties:
 - Solving logarithmic equations
 
-### Exponential Functions Advanced
+### [Exponential Functions Advanced](./Exponential_Functions_Advanced.ipynb)
 Understanding exponential functions and their applications:
 - Graphing and modeling growth/decay
 
