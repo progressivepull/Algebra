@@ -99,7 +99,7 @@ Solving quadratic equations and understanding:
 Working with exponents, radicals, and rational exponents:
 - Simplifying expressions and solving equations
 
-### Rational Expressions and Equations Advanced
+### [Rational Expressions and Equations Advanced](./Rational_Expressions_and_Equations_Advanced.ipynb)
 Understanding and manipulating rational expressions:
 - Solving rational equations and applications
 
