@@ -118,7 +118,7 @@ Understanding exponential functions and their applications:
 ### [Systems of Equations and Inequalities Advanced](./Systems_of_Equations_and_Inequalities_Advanced.ipynb)
 Solving systems of linear and non-linear equations and inequalities.
 
-### Graphing Equations and Functions Advanced
+### [Graphing Equations and Functions Advanced](./Graphing_Equations_and_Functions_Advanced.ipynb)
 Understanding how to graph various types of equations and functions.
 
 ## Applications and Modeling
