@@ -107,7 +107,7 @@ Understanding and manipulating rational expressions:
 Working with complex numbers:
 - Basic operations and solutions involving complex roots
 
-### Logarithms Advanced
+### [Logarithms Advanced](./Logarithms_Advanced.ipynb)
 Understanding logarithms and their properties:
 - Solving logarithmic equations
 
